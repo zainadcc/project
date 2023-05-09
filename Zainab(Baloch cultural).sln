@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zainab(Baloch cultural)", "Zainab(Baloch cultural)\Zainab(Baloch cultural).csproj", "{918AA90E-B753-40AD-A8EA-2D51C969E1F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{918AA90E-B753-40AD-A8EA-2D51C969E1F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{918AA90E-B753-40AD-A8EA-2D51C969E1F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{918AA90E-B753-40AD-A8EA-2D51C969E1F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{918AA90E-B753-40AD-A8EA-2D51C969E1F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E46C3737-A477-4B44-A1F5-2BC6EB9D1A70}
+	EndGlobalSection
+EndGlobal
